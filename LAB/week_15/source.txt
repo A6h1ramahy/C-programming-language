@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains multiple lines.
+
+Line 3
+Line 4
+Final line.
